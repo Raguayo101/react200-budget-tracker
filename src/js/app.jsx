@@ -3,8 +3,6 @@ import IncomeEntries from "./components/IncomeEntries";
 import ExpenseEntries from "./components/ExpenseEntries";
 import Summary from "./components/Summary";
 
-//please work
-
 export default class App extends React.Component {
   render() {
     return (
